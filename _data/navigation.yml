@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "PCC-Inventor-Camp"
-    url: https://francescafr.github.io/pages/PCC-Inventor-Camp
+    url: https://francescafr.github.io/_PCC-Inventor-Camp
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
@@ -10,3 +10,22 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+  
+  pcc:
+  
+  - title: Overview
+    children:
+      - title: "What is PCC Inventor Camp?"
+        url: /PCC-Inventor-Camp/Whatis/
+      - title : "Course Outline"
+        url: /PCC-Inventor-Camp/Course-Outline/
+      - title: "Resources"
+        url: /PCC-Inventor-Camp/Resources/
+      - title "FAQ"
+        url: /PCC-Inventor-Camp/FAQ/
+      - title: "Further Learning"
+        url: /PCC-Inventor-Camp/Further-Learning/
+  - title: Week 1
+    children:
+    - title: "What is invention?"
+      url: /PCC_Inventor-Camp/01_invention/

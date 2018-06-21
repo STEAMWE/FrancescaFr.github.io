@@ -1,7 +1,7 @@
 --
+permalink: /PCC-Inventor-Camp/
 layout: single
 toc: true
-
 ---
 
 # Here is a header

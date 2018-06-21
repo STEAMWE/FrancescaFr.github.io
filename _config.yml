@@ -255,7 +255,11 @@ compress_html:
   ignore:
     envs: development
 
-
+collections:
+  PCC-Inventor-Camp:
+  output: true
+  permalink: /:collection/:path/
+  
 # Defaults
 defaults:
   # _posts
@@ -278,4 +282,16 @@ defaults:
     values:
       layout: single
  
+defaults:
+  # _PCC-Inventor-Camp
+  - scope:
+      path: ""
+      type: PCC-Inventor-Camp
+    values:
+      layout: single
+      author profile: false
+      share: true
+      sidebar:
+        nav: "PCC"
+  
 
