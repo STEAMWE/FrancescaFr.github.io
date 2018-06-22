@@ -11,15 +11,13 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
   
-#PCC:
-  #- title: Overview
- #   children:
-  #   - title: "PCC Inventor Camp"
-  #     url: /PCC-Invention-Camp/PCC-Inventor-Camp
- #     - title: "What is PCC Inventor Camp?"
-   #     url: /PCC-Inventor-Camp/Whatis/
-  #    - title: "Course Outline"
-  #      url: /PCC-Inventor-Camp/Course-Outline/
+PCC:
+  - title: Overview
+    children:
+     - title: "PCC Inventor Camp"
+       url: /PCC-Inventor-Camp/pcc-camp/
+     - title: "Course Outline"
+       url: /PCC-Inventor-Camp/Course-Outline/
  #     - title: "Resources"
 #        url: /PCC-Inventor-Camp/Resources/
      # - title "FAQ"
