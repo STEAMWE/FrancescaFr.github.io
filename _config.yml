@@ -18,7 +18,8 @@ minimal_mistakes_skin   : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "n
 locale                   : "en-US"
 title                    : "PCC Inventor Camp"
 title_separator          : "-"
-name                     : "Course Contact: Francesca Frattaroli"
+name                     : "Course Contact: 
+                            Francesca Frattaroli"
 description              : "Praxis makes Perfect"
 url                      : https://Francescafr.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -100,10 +101,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Course Contact: Francesca Frattaroli"
+  name             : "Course Contact: 
+                      Francesca Frattaroli"
   avatar           : /assets/images/turtle.JPG # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : #"I am an amazing person."
-  location         : "Portland Community College, Cascade Campus"
+  location         : "Portland Community College"
   email            : francesca.frattaroli@pcc.edu
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
