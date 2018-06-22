@@ -43,13 +43,18 @@
 - [URS Electronics](http://www.urseleshop.com/): Local electronic component supply store, they sell wholesale and consumer. Friendly staff can help you find the right switch, sensor, relay. Call ahead to check stock.
 
 123 N.E Seventh Avenue, Portland, OR 97214.
+
 Open: Mon-Fri 7:30 - 4:30.
+
 Phone: 503.233.5341
 
 - [TAP Plastics](https://www.tapplastics.com/): Good Selection of Plastic Sheeting, tubing, signage material - Great place to source material for laser-cutting projects.
 2842 NE Sandy Blvd. Portland, OR 97232.
+
 Email: tap12@tapplastics.com.
+
 Open: Mon-Fri 8:30 to 6, Sat 9 to 5.
+
 Phone: 503.230.0770
 
 - [Home Depot](https://www.homedepot.com/l/search/121/full/): General purpose material/tool supply.
