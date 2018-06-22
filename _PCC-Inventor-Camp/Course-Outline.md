@@ -1,6 +1,6 @@
 ---
 # permalink: /course-outline/
-# title: Course Outline
+ title: Course Outline
 # layout: single
 ---
- # Coming Soon
+## Coming Soon

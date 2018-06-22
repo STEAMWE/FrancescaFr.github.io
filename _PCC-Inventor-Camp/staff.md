@@ -1,7 +1,7 @@
 ---
 # permalink: 
  title: Staff
- #layout: wide
+ # layout: wide
 ---
 
-## Comming Soon
+## Coming Soon

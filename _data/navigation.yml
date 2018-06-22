@@ -1,11 +1,12 @@
 # main links
 main:
-  - title: "PCC Inventor Camp"
+  - title: "Course Info"
     url: /PCC-Inventor-Camp/2018/
+  - title: "Instructor Updates"
+    url: /
   - title: "About"
     url: /pages/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
@@ -25,11 +26,9 @@ PCC:
        url: /PCC-Inventor-Camp/Resources/
      - title: "FAQ"
        url: /PCC-Inventor-Camp/FAQ/
-     #- title: "Further Learning"
-     #  url: /PCC-Inventor-Camp/Further-Learning/
   - title: Week 1
     children:
      - title: "Overview"
-       url: /PCC_Inventor-Camp/Week1/
+       url: /PCC-Inventor-Camp/Week1/
    # - title: "What is invention?"
    #   url: /PCC_Inventor-Camp/01_invention/

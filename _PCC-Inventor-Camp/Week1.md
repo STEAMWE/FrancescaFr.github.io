@@ -1,7 +1,7 @@
 ---
 # permalink: 
  title: Week 1
- #layout: wide
+# layout: wide
 ---
 
-# Coming Soon
+## Coming Soon
