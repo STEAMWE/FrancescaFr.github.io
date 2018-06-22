@@ -1,5 +1,6 @@
 ---
-
+permalink: /pcc-camp/
+title: PCC Camp
 layout: single
 --------
 

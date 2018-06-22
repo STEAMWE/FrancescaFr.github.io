@@ -136,6 +136,8 @@ author:
 include:
   - .htaccess
   - _pages
+  - _PCC-Inventor-Camp
+  - _posts
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -257,7 +259,7 @@ compress_html:
 
 #collections:
  # PCC-Inventor-Camp:
- # output: true
+  #output: true
  # permalink: /:collection/:path/
   
 # Defaults
