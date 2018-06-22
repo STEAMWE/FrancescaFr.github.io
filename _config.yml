@@ -10,9 +10,9 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-# theme                  : "minimal-mistakes-jekyll"
-# remote_theme           : "francescafr/minimal-mistakes"
-minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+#theme                  : "minimal-mistakes-jekyll"
+#remote_theme           : "francescafr/minimal-mistakes"
+minimal_mistakes_skin   : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -136,8 +136,7 @@ author:
 include:
   - .htaccess
   - _pages
-  - _PCC-Inventor-Camp
-  - _posts
+  
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -190,6 +189,46 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
+# Collections
+collections:
+  PCC-Inventor-Camp:
+    output: true
+    permalink: /PCC-Inventor-Camp/:path/
+  
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: # true
+      share: true
+related: true
+
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+ 
+  # _PCC-Inventor-Camp
+  - scope:
+      path: ""
+      type: PCC-Inventor-Camp
+    values:
+      layout: single
+      read_time: false
+      author profile: false
+      share: false
+      comments: false
+      sidebar:
+        nav: "PCC"
+        
 
 # Sass/SCSS
 sass:
@@ -257,43 +296,6 @@ compress_html:
   ignore:
     envs: development
 
-#collections:
- # PCC-Inventor-Camp:
-  #output: true
- # permalink: /:collection/:path/
-  
-# Defaults
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: false
-      comments: # true
-      share: true
-related: true
 
-defaults:
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
- 
-defaults:
-  # _PCC-Inventor-Camp
-  - scope:
-      path: ""
-      type: PCC-Inventor-Camp
-    values:
-      layout: single
-      author profile: false
-      share: true
-      sidebar:
-        nav: "PCC"
   
 
