@@ -33,8 +33,6 @@
 
 ## Recommended Supplies (_Not Included_) ##
 
-- Extra Pens/Pencils
-- Toolbox/Supply Bag
 - Snacks/waterbottle
 
 
