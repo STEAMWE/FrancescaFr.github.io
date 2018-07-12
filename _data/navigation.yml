@@ -26,6 +26,8 @@ PCC:
        url: /PCC-Inventor-Camp/Resources/
      - title: "FAQ"
        url: /PCC-Inventor-Camp/FAQ/
+     - title: "Contacts"
+       url: /PCC-Inventor-Camp/Contact/
   - title: Week 1
     children:
      - title: "Overview"
