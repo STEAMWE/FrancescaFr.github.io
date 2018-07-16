@@ -10,7 +10,7 @@ Parents or students seeking information regarding scheduling, forms, camp policy
 ### Windy Wahlke, Camp Coordinator 
 (<Windy.Wahlke15@pcc.edu>, 971-722-6201).
 
-For questions about course content, please contact:
+For questions about course content, and to report last-minute absences, please contact:
 
 ### Francesca Frattaroli, Camp Instructor 
 (<Francesca.Frattaroli@pcc.edu>)

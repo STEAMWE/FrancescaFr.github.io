@@ -11,11 +11,10 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-   
-  
+    
 PCC:
-  - title: Camp Overview
-    children:
+   - title: Camp Overview
+     children:
      - title: "PCC Inventor Camp"
        url: /PCC-Inventor-Camp/2018/
      - title: "Schedule"
@@ -24,13 +23,36 @@ PCC:
        url: /PCC-Inventor-Camp/staff/
      - title: "Resources"
        url: /PCC-Inventor-Camp/Resources/
+     - title: "Topics"
+       url: /PCC-Inventor-Camp/topics/
      - title: "FAQ"
        url: /PCC-Inventor-Camp/FAQ/
      - title: "Contacts"
        url: /PCC-Inventor-Camp/Contact/
-  - title: Week 1
-    children:
+
+   - title: Week 1
+     children:
      - title: "Overview"
        url: /PCC-Inventor-Camp/Week1/
+     - title: "Day 1"
+       url: /PCC-Inventor-Camp/W1D1
+     - title: "Day 2"
+       url: /PCC-Inventor-Camp/W1D2
+     - title: "Day 3"
+       url: /PCC-Inventor-Camp/W1D3
+     - title: "Day 4"
+       url: /PCC-Inventor-Camp/W1D4
+     - title: "Day 5"
+       url: /PCC-Inventor-Camp/W1D5
+   - title: Week 2
+     children:
+     - title: "Overview"
+       url: /PCC-Inventor-Camp/Week2/
+   - title: Week 3
+     children:
+     - title: "Overview"
+       url: /PCC-Inventor-Camp/Week3/
+
+ 
    # - title: "What is invention?"
    #   url: /PCC_Inventor-Camp/01_invention/

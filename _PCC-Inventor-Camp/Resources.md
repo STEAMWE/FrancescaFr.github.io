@@ -3,11 +3,14 @@
  title: Inventor Camp Resources
  #layout: wide
 ---
+## Videos ##
+
+Visit the [Inventor Camp](https://www.youtube.com/playlist?list=PLCbj4y40DGbFfPRFeO3EVDI29tCjYclos) Youtube playlist for a complete listing of all videos referenced in the course.
 
 ## On-Campus Resources ##
 
 ### General: ###
-- Paragon Fab Lab
+- [Cascade Fab Lab](https://www.pcc.edu/maker/fab-lab/)
   - 60W Laser Cutter
   - CR-10 3D Filament Printer
   - Roland Vinyl Plotter
@@ -15,7 +18,7 @@
   - Hand Drill
   - Misc. Small Hand Tools
   
-- Interactivity Lab
+- [Interactivity Lab](https://www.pcc.edu/maker/interactivity-lab/)
   - Soldering Irons
   - CR-10 3D Filament Printer (x2)
 
@@ -29,6 +32,7 @@
 
 - Design Notebook + Pencil
 - Arduino Starter Kit (Micro-Controller, Wires, Resistors, Breadboard, Sensors, Actuators, etc.)
+  [Included Documentation](https://drive.google.com/drive/folders/1g1QEL_eiZKXUURxtWOOyFW0e9Gh81e6L?usp=sharing)
 - Solder Kit (Soldering Iron, Solder, Desoldering Pump, Wire Strippers, etc.)
 
 ## Recommended Supplies (_Not Included_) ##
@@ -37,6 +41,12 @@
 
 
 ## Community Resources ##
+
+- [Free Geek](https://www.freegeek.org/) : Non-Profit Computer Recycling and Reuse Company. Sells affordable refurbished laptops, provides free workshops, and volunteer opportunities (log 24 hours and get a free computer!).
+
+- [Free Geek Recommended Resources](https://www.freegeek.org/community-programs/resources) : Big List of tech resources and programs around Portland. 
+
+- _Portland Tool Libraries_: Google "Portland Tool Libraries" to find tool library nearest you. (Tool libraries work just like any library, get an account and you can check out all sorts of tools for free, a week at a time)
 
 
 ## Online Learning ##

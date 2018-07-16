@@ -10,12 +10,13 @@
 Francesca Frattaroli
 
 ### Mentors:
+
 Lisa
 
 Joel
 
 Station
 
-Shannon
-
 Jordan
+
+Shannon
