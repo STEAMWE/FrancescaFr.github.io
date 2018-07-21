@@ -20,6 +20,10 @@
 
 ## Soldering ##
 
+- [Sparkfun Guide to Soldering](https://learn.sparkfun.com/tutorials/how-to-solder-through-hole-soldering)
+- [Adafruit guite to Excelent Soldiering](https://learn.adafruit.com/adafruit-guide-excellent-soldering/tools)
+- [How to Solder- Video](https://youtu.be/QKbJxytERvg)
 
 ## 3D Modeling ##
 - [Fusion 360](http://help.autodesk.com/view/fusion360/ENU/)
+
