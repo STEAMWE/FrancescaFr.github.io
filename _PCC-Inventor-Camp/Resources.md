@@ -7,20 +7,27 @@
 
 Visit the [Inventor Camp](https://www.youtube.com/playlist?list=PLCbj4y40DGbFfPRFeO3EVDI29tCjYclos) Youtube playlist for a complete listing of all videos referenced in the course.
 
+
 ## On-Campus Resources ##
 
 ### General: ###
 - [Cascade Fab Lab](https://www.pcc.edu/maker/fab-lab/)
   - 60W Laser Cutter
-  - CR-10 3D Filament Printer
+  - CR-10 3D Filament Printer (x2)
   - Roland Vinyl Plotter
   - Sewing Machine
+  - CNC Embroidery Machine
+  - Jig Saw
   - Hand Drill
   - Misc. Small Hand Tools
+  - Soldering Irons + Soldering Equipment
+  - Electronic peripherals + components
   
 - [Interactivity Lab](https://www.pcc.edu/maker/interactivity-lab/)
-  - Soldering Irons
-  - CR-10 3D Filament Printer (x2)
+  - Soldering Irons + Soldering Equipment
+  - CR-10 Creality 3D Filament Printer
+  - Ender 3 Creality 3D Filament Printer
+  - Electronic peripherals + components
 
 ### Software: ###
 
@@ -30,10 +37,12 @@ Visit the [Inventor Camp](https://www.youtube.com/playlist?list=PLCbj4y40DGbFfPR
 
 ## Take-Home Supplies ##
 
-- Design Notebook + Pencil
+- Design Notebook + Pen
 - Arduino Starter Kit (Micro-Controller, Wires, Resistors, Breadboard, Sensors, Actuators, etc.)
   [Included Documentation](https://drive.google.com/drive/folders/1g1QEL_eiZKXUURxtWOOyFW0e9Gh81e6L?usp=sharing)
-- Solder Kit (Soldering Iron, Solder, Desoldering Pump, Wire Strippers, etc.)
+- Solder Kit (Soldering Iron, Solder, Desoldering Pump, Wire Strippers, etc.) + Helping hands
+- Toolbox
+
 
 ## Recommended Supplies (_Not Included_) ##
 

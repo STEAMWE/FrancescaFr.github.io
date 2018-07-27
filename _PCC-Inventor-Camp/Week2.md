@@ -5,10 +5,12 @@
 ---
 ## Design Tools and Project Development:
 
-This week will focus on developing motor control, audio and visual sensor, and 3d printing skills. Project Designs will also be finalized, as we transition to Invention Fabrication.
+This week will focus on developing motor control, audio and visual sensor, and 3d printing skills.
+Guest presenters will speak about their experiences in industrial and visual effects engineering, emphasizing invention and design techniques. Project designs will also be finalized, as we transition to Invention Fabrication.
 
-- Day 1: Driving and Controlling Motors, Printer Take Apart
-- Day 2: Audio Visual Peripherals
-- Day 3: 3D Modeling, Intro to 3D Printers
-- Day 4: Engineering and Art, Guest Lecture
-- Day 5: Open Lab, Project Design Decisions
+- Day 1: Guest Speaker: Bill Dresselhaus, Industrial Engineer / Project Work
+- Day 2: Project Work /Audio Visual Peripherals / Guest Speaker: Peter Vickery, Visual Effects Supervisor
+- Day 3: Project Work /Printer Take-Apart 
+- Day 4: 3D Modeling, Intro to 3D Printers
+- Day 5: Open Lab, Engineering and Art, Project Design Decisions
+
