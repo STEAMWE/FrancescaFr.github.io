@@ -29,6 +29,19 @@ PCC:
        url: /PCC-Inventor-Camp/FAQ/
      - title: "Contacts"
        url: /PCC-Inventor-Camp/Contact/
+       
+   - title: Inventor Projects
+     children: 
+     - title: "The Dispensary"
+       url: /PCC-Inventor-Camp/Team_A/
+     - title: "Kitchen A.I.D"
+       url: /PCC-Inventor-Camp/Team_B/
+     - title: "Car Heat Alert"
+       url: /PCC-Inventor-Camp/Team_C/
+     - title: "Water We Wasting"
+       url: /PCC-Inventor-Camp/Team_D/
+     - title: "Induino Garden"
+       url: /PCC-Inventor-Camp/Team_E/
 
    - title: Week 1
      children:
@@ -52,6 +65,8 @@ PCC:
        url: /PCC-Inventor-Camp/W2D1
      - title: "Day 2"
        url: /PCC-Inventor-Camp/W2D2
+     - title: "Day 3"
+       url: /PCC-Inventor-Camp/W2D3
    - title: Week 3
      children:
      - title: "Overview"
