@@ -29,9 +29,9 @@ PCC:
        url: /PCC-Inventor-Camp/FAQ/
      - title: "Contacts"
        url: /PCC-Inventor-Camp/Contact/
-       
+        
    - title: Inventor Projects
-     children: 
+     children:
      - title: "The Dispensary"
        url: /PCC-Inventor-Camp/Team_A/
      - title: "Kitchen A.I.D"
