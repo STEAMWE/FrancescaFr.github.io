@@ -17,6 +17,18 @@
 - [What is Arduino?](https://youtu.be/_h1m6R9YW8c) (Video 2)
 - [Arduino Create](https://create.arduino.cc/): Setup your Account
 
+### Micro OLED
+
+Getting your Micro OLED up and Running
+<p align="center">
+<img src="/assets/images/OLED.jpg">
+</p>
+
+
+- [Invention Bootcamp OLED Tutorial](http://web.cecs.pdx.edu/~gerry/class/IB/topics/03_arduino_micro_OLED.html)
+
+
+
 ## Soldering ##
 
 - [Sparkfun Guide to Soldering](https://learn.sparkfun.com/tutorials/how-to-solder-through-hole-soldering)
