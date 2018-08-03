@@ -69,6 +69,8 @@ PCC:
        url: /PCC-Inventor-Camp/W2D3
      - title: "Day 4"
        url: /PCC-Inventor-Camp/W2D4
+     - title: "Day 5"
+       url: /PCC-Inventor-Camp/W2D5
    - title: Week 3
      children:
      - title: "Overview"
