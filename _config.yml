@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Inventor Camp at PCC"
 title_separator          : "-"
 name                     : "Francesca Frattaroli"
-description              : "Praxis makes Perfect"
+description              : "Praxis Makes Perfect"
 url                      : https://Francescafr.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : francescafr/francescafr.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -102,7 +102,7 @@ analytics:
 author:
   name             : "Course Contacts"
   avatar           : /assets/images/IB_logo_small.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Instructor: Francesca Frattaroli, Mentors: Lisa, Joel, Station, Shannon, Jordan"
+  bio              : "Instructor: Francesca Frattaroli, Mentors: Lisa, Joel, Station, Jordan"
   location         : "Portland Community College"
   email            : francesca.frattaroli@pcc.edu
   uri              :
@@ -117,7 +117,7 @@ author:
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        : #coelacanthbelieveitsnotbutter
+  instagram        : paragonfablab #coelacanthbelieveitsnotbutter
   lastfm           :
   linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
