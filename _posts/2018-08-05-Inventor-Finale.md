@@ -8,7 +8,7 @@ collection: /updates/
 Friday, August 10th is the last day of camp. A finale event will be held from 1PM -3PM, where students will present on their inventions and invention process. This finale is open to the public and all inventor friends and family are welcome. 
 
 <p align="center">
-<img src="/assets/images/finale.jpg">
+<img src="/assets/images/Finale.JPG">
 </p>
 
 <br>
