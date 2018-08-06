@@ -47,29 +47,29 @@ PCC:
      children:
      - title: "Overview"
        url: /PCC-Inventor-Camp/Week1/
-     - title: "Day 1"
+     - title: "Day 1 - Orientation"
        url: /PCC-Inventor-Camp/W1D1
-     - title: "Day 2"
+     - title: "Day 2 - Arduino & Soldering"
        url: /PCC-Inventor-Camp/W1D2
-     - title: "Day 3"
+     - title: "Day 3 - Motors and Sensors"
        url: /PCC-Inventor-Camp/W1D3
-     - title: "Day 4"
+     - title: "Day 4 - Project & Lasercutting"
        url: /PCC-Inventor-Camp/W1D4
-     - title: "Day 5"
+     - title: "Day 5 - Problem Identification"
        url: /PCC-Inventor-Camp/W1D5
    - title: Week 2
      children:
      - title: "Overview"
        url: /PCC-Inventor-Camp/Week2/
-     - title: "Day 1"
+     - title: "Day 1 - Design Drawing & Project Selection"
        url: /PCC-Inventor-Camp/W2D1
-     - title: "Day 2"
+     - title: "Day 2 - Project Refinement & FX Lecture"
        url: /PCC-Inventor-Camp/W2D2
-     - title: "Day 3"
+     - title: "Day 3 - Mockups & Printer Take Apart"
        url: /PCC-Inventor-Camp/W2D3
-     - title: "Day 4"
+     - title: "Day 4 - 3D Modeling & Printing"
        url: /PCC-Inventor-Camp/W2D4
-     - title: "Day 5"
+     - title: "Day 5 - Sub-system Identification & BOM"
        url: /PCC-Inventor-Camp/W2D5
    - title: Week 3
      children:

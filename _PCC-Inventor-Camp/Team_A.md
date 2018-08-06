@@ -1,13 +1,12 @@
 ---
 # permalink: /Team_A/
  title: Team A - The Dispensary
-# layout: single
+ layout: single
+ classes: wide
 ---
 
 <p align="center">
-<br>
-<br>
-<img width ="150" src ="/assets/images/IB_logo_small.png">
+<img width="600" src="/assets/images/medicine/armband_mockup.jpg">
 <br>
 </p>
 
@@ -19,7 +18,6 @@ For people on medication, it can tend to be hard to remember to take their pills
 
 An Invention to address this problem would be:
 A device, worn on the wrist that stores and dispenses medication, capable of reminding the user to take their medication at user-designated times. It would include both audible and physical methods to alert to user it is time to take his/her medication. It’s working title is The Dispensary.
-
 
 ## Invention Attributes:
 
@@ -47,18 +45,25 @@ A device, worn on the wrist that stores and dispenses medication, capable of rem
 ## History and Context:
 
 ## Design Ideas:
+- Living Hinges:
+<p align="center">
+<img src="/assets/images/medicine/living_hinge_samples.jpg">
+</p>
+- Sensors: RTC
+- Tools: Laser Cutter, 3D Printer
 
-- Living Hinges
+## Subsystem Map:
 
 ## BOM (Bill of Materials):
 
-Components (Materials needed for Invention):
-A velcro
-3d printing/Laser cutting
-Multiple shapes of pills for testing
-Plexiglass/acrylic/clear(window)
-Snap latch 
-Birch Plywood
-Teensy INSTEAD of uno(too big)
-Sturdy Fabric
-Microcontroller w/embedded RTC(real time clock)
+- Velcro
+- Multiple shapes of pills for testing
+- Plexiglass/acrylic/clear(window)
+- Snap latch 
+- Birch Plywood
+- Teensy INSTEAD of uno(too big)
+- Sturdy Fabric
+- RTC(real time clock)
+- OLED Screen
+- 9V Battery
+- LiIon Battery Pack + Charger(Maybe)
