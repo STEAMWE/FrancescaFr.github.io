@@ -17,6 +17,22 @@
 - [What is Arduino?](https://youtu.be/_h1m6R9YW8c) (Video 2)
 - [Arduino Create](https://create.arduino.cc/): Setup your Account
 
+### Real Time Clock (DS3231)
+
+<p align="center">
+<img src="/assets/images/RTC.jpg">
+</p>
+
+- Here is an easy RTC [Library](/assets/code/DS3231.zip) to start with. It allows for easy time setting and retrieval.
+(Just download the file, then upload it to your Arduino.Create Library. Includes example code.)
+- Here is the [Manual](/assets/PDF/DS3231.pdf) for DS3231 for this Library.
+
+### Button Interfaces:
+
+A number of teams are using buttons to obtain input from a user. Here is a [sample code](/assets/code/button_test.ino) that utilizes a button and a potentiometer to collect user input, and builds out the basic structure for generating "sub-menus".
+
+### RTC + Interface
+ Here is a program that [combines](/assets/code/Alarm_Set.ino) the RTC and a button interface to set an alarm. 
 ### Micro OLED
 
 Getting your Micro OLED up and Running
