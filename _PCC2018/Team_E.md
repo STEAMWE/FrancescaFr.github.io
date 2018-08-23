@@ -8,7 +8,7 @@
 <p align="center">
 <br>
 <br>
-<img width="600" src ="/assets/images/induino_garden/induino.jpg">
+<img width="400" src ="/assets/images/induino_garden/induino.jpg">
 <br>
 </p>
 
@@ -91,7 +91,7 @@ Gardening also is a gentle reminder that we aren't the only ones and self-absorp
 
 
 <br>
-###RESEARCH DESIGN: (TECH/SENSORS/TOOLS)
+### RESEARCH DESIGN: (TECH/SENSORS/TOOLS)
 
 
 #### SENSORS:
@@ -128,7 +128,7 @@ We will use simpler tools as well, such as a glue gun, scissors, ruler, and Xact
 <p align="center">
 <br>
 <br>
-<img src ="/assets/images/induino_garden/sketch1.jpg">
+<img width="500" src ="/assets/images/induino_garden/sketch1.jpg">
 <br>
 </p>
 
@@ -136,7 +136,7 @@ We will use simpler tools as well, such as a glue gun, scissors, ruler, and Xact
 <p align="center">
 <br>
 <br>
-<img src ="/assets/images/induino_garden/sketch2.jpg">
+<img width="500" src ="/assets/images/induino_garden/sketch2.jpg">
 <br>
 </p>
 
@@ -144,7 +144,7 @@ We will use simpler tools as well, such as a glue gun, scissors, ruler, and Xact
 <p align="center">
 <br>
 <br>
-<img src ="/assets/images/induino_garden/sketch3.jpg">
+<img width="500" src ="/assets/images/induino_garden/sketch3.jpg">
 <br>
 </p>
 
@@ -152,19 +152,19 @@ We will use simpler tools as well, such as a glue gun, scissors, ruler, and Xact
 <p align="center">
 <br>
 <br>
-<img src ="/assets/images/induino_garden/sketch4.jpg">
+<img width="500" src ="/assets/images/induino_garden/sketch4.jpg">
 <br>
 </p>
 
 <p align="center">
 <br>
 <br>
-<img src ="/assets/images/induino_garden/sketch5.JPG">
+<img width="500" src ="/assets/images/induino_garden/sketch5.JPG">
 <br>
 </p>
 <br>
 <p align="center">
-<img src ="/assets/images/induino_garden/sketch6.JPG">
+<img width="500" src ="/assets/images/induino_garden/sketch6.JPG">
 <br>
 </p>
 
@@ -244,8 +244,7 @@ Materials:
 - 4 Wheels - $ 
 
 ## Final Product:
-<br>
-<br>
+<p>
 <img width="600" src ="/assets/images/induino_garden/induino.jpg">
 <br>
 </p>
