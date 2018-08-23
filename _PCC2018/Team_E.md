@@ -8,10 +8,11 @@
 <p align="center">
 <br>
 <br>
-<img width="600" src ="/assets/images/induino_garden/sketch6.JPG">
+<img width="600" src ="/assets/images/induino_garden/induino.jpg">
 <br>
 </p>
 
+## Final Presentation [Download](/assets/PDF/InduinoGardenPresentation.pdf)
 
 ## The Problem:
 For people that don't have any type of outdoor growing area or a climate that does not support the growth of the plants, it is hard to grow anything when you don't have the proper tools or the right environment because the plants might need a specific type of environment to grow properly.
@@ -241,4 +242,16 @@ Materials:
 - Plants - $
 - Fertilizer - $
 - 4 Wheels - $ 
+
+## Final Product:
+<br>
+<br>
+<img width="600" src ="/assets/images/induino_garden/induino.jpg">
+<br>
+</p>
+
+- Mobile
+- Self automated watering system
+- Holds 15 plants
+- Uses recycled materials
 

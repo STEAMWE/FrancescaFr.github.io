@@ -7,8 +7,8 @@
 
 <p align="center">
 <br>
-<img width="600" src ="/assets/images/mockups/watersetup.JPG">
-<img width="600" src ="/assets/images/mockups/wateraction.JPG">
+<img width="500" src ="/assets/images/water/watersetup.JPG">
+<img width="500" src ="/assets/images/water/wateraction.JPG">
 <br>
 </p>
 
@@ -246,8 +246,8 @@ Keeping track of time
 
 <p align="center">
 <br>
-<img width="600" src ="/assets/images/mockups/watersetup.JPG">
-<img width="600" src ="/assets/images/mockups/wateraction.JPG">
+<img width="600" src ="/assets/images/water/watersetup.JPG">
+<img width="600" src ="/assets/images/water/wateraction.JPG">
 <br>
 </p>
 
