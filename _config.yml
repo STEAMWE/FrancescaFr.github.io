@@ -16,14 +16,14 @@ minimal_mistakes_skin   : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Inventor Camp at PCC"
+title                    : "Praxis Makes Perfect"
 title_separator          : "-"
 name                     : "Francesca Frattaroli"
 description              : "Praxis Makes Perfect"
 url                      : https://Francescafr.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : francescafr/francescafr.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : /assets/images/jupiterclouds.jpg # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : /assets/pimages/Europa_surface.jpg # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -100,11 +100,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Course Contacts"
-  avatar           : /assets/images/IB_logo_small.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Instructor: Francesca Frattaroli, Mentors: Lisa, Joel, Station, Jordan"
-  location         : "Portland Community College"
-  email            : francesca.frattaroli@pcc.edu
+  name             : "Francesca Frattaroli"
+  avatar           : /assets/pimages/avatar.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Francesca Frattaroli "
+  location         : "Portland, OR"
+  email            : francesca@praxismakesperfect.net
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -117,7 +117,7 @@ author:
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        : paragonfablab #coelacanthbelieveitsnotbutter
+  instagram        : coelacanthbelieveitsnotbutter
   lastfm           :
   linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
@@ -194,6 +194,9 @@ collections:
   PCC-Inventor-Camp:
     output: true
     permalink: /PCC-Inventor-Camp/:path/
+  PCC2018:
+    output: true
+    permalink: /PCC2018/:path/
   
 # Defaults
 defaults:
@@ -228,6 +231,18 @@ defaults:
       comments: false
       sidebar:
         nav: "PCC"
+  # _PCC2018
+  - scope:
+      path: ""
+      type: PCC2018
+    values:
+      layout: single
+      read_time: false
+      author profile: false
+      share: false
+      comments: false
+      sidebar:
+        nav: "PCC18"
         
 
 # Sass/SCSS

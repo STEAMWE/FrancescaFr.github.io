@@ -52,7 +52,47 @@ A device, worn on the wrist that stores and dispenses medication, capable of rem
 - Sensors: RTC
 - Tools: Laser Cutter, 3D Printer
 
-## Subsystem Map:
+## Subsystem Map: 
+
+- Structural/Mechanical: Michael
+  - Mechanical iris
+    - Spring
+    - lever 
+    - Schematic
+  - Armband [Joel] {testing in progress}
+    - Living hinges (maybe fabric)
+    - Container [michael] {done}    
+      - For Pills, Electronics
+      
+- Electrical: Bao Truc
+  - Power(battery)
+    - Lithium Ion/other
+    - Recharging(reach)
+    - Container?
+    - 9V?
+  - Soldering
+    - Soldering Shield (wires and stuff)
+  - Microcontroller (Amazon Microcontroller)
+  - Number pad
+    - Size, Reset button
+  - Button
+    - (possibly)
+  - Speaker (the tiny one)
+  - Protoboard (breadboard)
+
+- Programming: Philip
+  - LCD screen [philip] {not done}
+  - Time to take meds at the inputed time
+  - RTC(Alarm Clock With LCD)
+  - Yellow Blue LCD
+  - Speaker 
+    - (What sounds are we going to program?)
+  - Microcontroller 
+    - User interface
+    - LCD, Speaker Output
+    - Keypad/Joystick
+      - Code
+
 
 ## BOM (Bill of Materials):
 

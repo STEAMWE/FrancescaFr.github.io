@@ -1,11 +1,7 @@
 # main links
 main:
-  - title: "Course Info"
-    url: /PCC-Inventor-Camp/2018/
-  - title: "Instructor Updates"
-    url: /
-  - title: "About"
-    url: /pages/about/
+  - title: "Inventor Camp"
+    url: /PCC2018/2018/
   
   # - title: "Sample Collections"
   #   url: /collection-archive/
@@ -16,21 +12,27 @@ PCC:
    - title: Camp Overview
      children:
      - title: "PCC Inventor Camp"
-       url: /PCC-Inventor-Camp/2018/
-     - title: "Schedule"
-       url: /PCC-Inventor-Camp/Course-Outline/
-     - title: "Staff"
-       url: /PCC-Inventor-Camp/staff/
+       url: /PCC-Inventor-Camp/2019/
+     - title: "2018 Camp Archive"
+       url: /PCC2018/2018
+       
+    # - title: "Schedule"
+    #   url: /PCC-Inventor-Camp/Course-Outline/
+    # - title: "Staff"
+    #   url: /PCC-Inventor-Camp/staff/
      - title: "Resources"
        url: /PCC-Inventor-Camp/Resources/
      - title: "Topics"
        url: /PCC-Inventor-Camp/Topics/
      - title: "FAQ"
        url: /PCC-Inventor-Camp/FAQ/
-     - title: "Contacts"
-       url: /PCC-Inventor-Camp/Contact/
+    # - title: "Contacts"
+    #   url: /PCC-Inventor-Camp/Contact/
+     - title: "About"
+       url: /PCC-Inventor-Camp/about/
+       
         
-   - title: Inventor Projects
+ #  - title: Inventor Projects
      children:
      - title: "The Dispensary"
        url: /PCC-Inventor-Camp/Team_A/
@@ -43,7 +45,7 @@ PCC:
      - title: "Induino Garden"
        url: /PCC-Inventor-Camp/Team_E/
 
-   - title: Week 1
+ #  - title: Week 1
      children:
      - title: "Overview"
        url: /PCC-Inventor-Camp/Week1/
@@ -57,7 +59,7 @@ PCC:
        url: /PCC-Inventor-Camp/W1D4
      - title: "Day 5 - Problem Identification"
        url: /PCC-Inventor-Camp/W1D5
-   - title: Week 2
+ # - title: Week 2
      children:
      - title: "Overview"
        url: /PCC-Inventor-Camp/Week2/
@@ -71,10 +73,77 @@ PCC:
        url: /PCC-Inventor-Camp/W2D4
      - title: "Day 5 - Sub-system Identification & BOM"
        url: /PCC-Inventor-Camp/W2D5
+ #  - title: Week 3
+     children:
+ #    - title: "Overview"
+       url: /PCC-Inventor-Camp/Week3/
+
+PCC18:
+  # Archive of PCC Inventor Camp '18
+   - title: Camp Overview
+     children:
+     - title: "PCC Inventor Camp '18"
+       url: /PCC2018/2018
+     - title: "Schedule"
+       url: /PCC2018/Course-Outline/
+     - title: "Staff"
+       url: /PCC2018/staff/
+     - title: "Resources"
+       url: /PCC2018/Resources/
+     - title: "Topics"
+       url: /PCC2018/Topics/
+     - title: "FAQ"
+       url: /PCC2018/FAQ/
+     - title: "Contacts"
+       url: /PCC2018/Contact/
+     - title: "About"
+       url: /PCC2018/about/
+        
+   - title: Inventor Projects
+     children:
+     - title: "The Dispensary"
+       url: /PCC2018/Team_A/
+     - title: "Kitchen A.I.D"
+       url: /PCC2018/Team_B/
+     - title: "Car Heat Alert"
+       url: /PCC2018/Team_C/
+     - title: "Water We Wasting"
+       url: /PCC2018/Team_D/
+     - title: "Induino Garden"
+       url: /PCC2018/Team_E/
+
+   - title: Week 1
+     children:
+     - title: "Overview"
+       url: /PCC2018/Week1/
+     - title: "Day 1 - Orientation"
+       url: /PCC2018/W1D1
+     - title: "Day 2 - Arduino & Soldering"
+       url: /PCC2018/W1D2
+     - title: "Day 3 - Motors and Sensors"
+       url: /PCC2018/W1D3
+     - title: "Day 4 - Project & Lasercutting"
+       url: /PCC2018/W1D4
+     - title: "Day 5 - Problem Identification"
+       url: /PCC2018/W1D5
+   - title: Week 2
+     children:
+     - title: "Overview"
+       url: /PCC2018/Week2/
+     - title: "Day 1 - Design Drawing & Project Selection"
+       url: /PCC2018/W2D1
+     - title: "Day 2 - Project Refinement & FX Lecture"
+       url: /PCC2018/W2D2
+     - title: "Day 3 - Mockups & Printer Take Apart"
+       url: /PCC2018/W2D3
+     - title: "Day 4 - 3D Modeling & Printing"
+       url: /PCC2018/W2D4
+     - title: "Day 5 - Sub-system Identification & BOM"
+       url: /PCC2018/W2D5
    - title: Week 3
      children:
      - title: "Overview"
-       url: /PCC-Inventor-Camp/Week3/
+       url: /PCC2018/Week3/
 
  
    # - title: "What is invention?"
