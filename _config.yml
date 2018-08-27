@@ -18,7 +18,7 @@ minimal_mistakes_skin   : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "n
 locale                   : "en-US"
 title                    : "Praxis Makes Perfect"
 title_separator          : "-"
-name                     : "Francesca Frattaroli"
+name                     :  # ""
 description              : "Praxis Makes Perfect"
 url                      : https://Francescafr.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -102,7 +102,7 @@ analytics:
 author:
   name             : "Francesca Frattaroli"
   avatar           : /assets/pimages/avatar.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Francesca Frattaroli "
+  bio              : "BSME Fa Sol La Ti Do"
   location         : "Portland, OR"
   email            : francesca@praxismakesperfect.net
   uri              :
@@ -129,7 +129,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  youtube          : # "https://youtube.com/praxismakesperfect"
 
 
 # Reading Files
@@ -197,6 +197,9 @@ collections:
   PCC2018:
     output: true
     permalink: /PCC2018/:path/
+  Projects:
+    output: true
+    permalink: /Projects/:path/
   
 # Defaults
 defaults:
@@ -208,7 +211,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: false
-      comments: # true
+      comments:  # true
       share: true
       related: true
 
@@ -218,7 +221,17 @@ defaults:
       type: pages
     values:
       layout: single
- 
+  # _Projects
+  - scope:
+      path: ""
+      type: Projects
+    values:
+      layout: single
+      author profile: false
+      share: false
+      comments: false
+      sidebar:
+        nav: "Projects"
   # _PCC-Inventor-Camp
   - scope:
       path: ""
@@ -255,7 +268,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: # America/Los_Angeles # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)

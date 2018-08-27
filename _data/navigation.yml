@@ -2,81 +2,22 @@
 main:
   - title: "Inventor Camp"
     url: /PCC2018/2018/
+  - title: "Projects"
+    url: /Projects/Main/
   
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
-  #   url: /sitemap/
-    
-PCC:
-   - title: Camp Overview
-     children:
-     - title: "PCC Inventor Camp"
-       url: /PCC-Inventor-Camp/2019/
-     - title: "2018 Camp Archive"
-       url: /PCC2018/2018
-       
-    # - title: "Schedule"
-    #   url: /PCC-Inventor-Camp/Course-Outline/
-    # - title: "Staff"
-    #   url: /PCC-Inventor-Camp/staff/
-     - title: "Resources"
-       url: /PCC-Inventor-Camp/Resources/
-     - title: "Topics"
-       url: /PCC-Inventor-Camp/Topics/
-     - title: "FAQ"
-       url: /PCC-Inventor-Camp/FAQ/
-    # - title: "Contacts"
-    #   url: /PCC-Inventor-Camp/Contact/
-     - title: "About"
-       url: /PCC-Inventor-Camp/about/
-       
-        
- #  - title: Inventor Projects
-     children:
-     - title: "The Dispensary"
-       url: /PCC-Inventor-Camp/Team_A/
-     - title: "Kitchen A.I.D"
-       url: /PCC-Inventor-Camp/Team_B/
-     - title: "Car Heat Alert"
-       url: /PCC-Inventor-Camp/Team_C/
-     - title: "Water We Wasting"
-       url: /PCC-Inventor-Camp/Team_D/
-     - title: "Induino Garden"
-       url: /PCC-Inventor-Camp/Team_E/
+  #  url: /sitemap/
 
- #  - title: Week 1
+Projects:
+   # Pages dedicated to Projects
+   - title: Projects Main
+     url: /Projects/Main/
+   - title: Mini Projects
      children:
-     - title: "Overview"
-       url: /PCC-Inventor-Camp/Week1/
-     - title: "Day 1 - Orientation"
-       url: /PCC-Inventor-Camp/W1D1
-     - title: "Day 2 - Arduino & Soldering"
-       url: /PCC-Inventor-Camp/W1D2
-     - title: "Day 3 - Motors and Sensors"
-       url: /PCC-Inventor-Camp/W1D3
-     - title: "Day 4 - Project & Lasercutting"
-       url: /PCC-Inventor-Camp/W1D4
-     - title: "Day 5 - Problem Identification"
-       url: /PCC-Inventor-Camp/W1D5
- # - title: Week 2
-     children:
-     - title: "Overview"
-       url: /PCC-Inventor-Camp/Week2/
-     - title: "Day 1 - Design Drawing & Project Selection"
-       url: /PCC-Inventor-Camp/W2D1
-     - title: "Day 2 - Project Refinement & FX Lecture"
-       url: /PCC-Inventor-Camp/W2D2
-     - title: "Day 3 - Mockups & Printer Take Apart"
-       url: /PCC-Inventor-Camp/W2D3
-     - title: "Day 4 - 3D Modeling & Printing"
-       url: /PCC-Inventor-Camp/W2D4
-     - title: "Day 5 - Sub-system Identification & BOM"
-       url: /PCC-Inventor-Camp/W2D5
- #  - title: Week 3
-     children:
- #    - title: "Overview"
-       url: /PCC-Inventor-Camp/Week3/
+     - title: "WaveForm Chess Set"
+       url: /Projects/Waveform-Chess-Set/
 
 PCC18:
   # Archive of PCC Inventor Camp '18
