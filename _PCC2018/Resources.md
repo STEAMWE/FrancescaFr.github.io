@@ -47,7 +47,11 @@ Visit the [Inventor Camp](https://www.youtube.com/playlist?list=PLCbj4y40DGbFfPR
   - CR-10 Creality 3D Filament Printer
   - Ender 3 Creality 3D Filament Printer
   - Electronic peripherals + components
+  
+  
+  
 <a name="software"></a>
+
 ### Software: ###
 
 - Arduino IDE (Free to Download)
@@ -62,7 +66,7 @@ Visit the [Inventor Camp](https://www.youtube.com/playlist?list=PLCbj4y40DGbFfPR
 - Solder Kit (Soldering Iron, Solder, Desoldering Pump, Wire Strippers, etc.) + Helping hands
 - Toolbox
 
-,a name="recommended"></a>
+<a name="recommended"></a>
 ## Recommended Supplies (_Not Included_) ##
 
 - Snacks/waterbottle
