@@ -8,6 +8,10 @@ tags:
   - Lasercutting
   - Projects
 ---
+
+<img width="600" src="/assets/etextileflower/Flower1.jpg">
+<br>
+
 An attempt at interactive e-textile design which avoids using a microcontroller or any programmable logic element. Laser cutter, vinyl cutter, and sewing machine were used for ease, but entire project can be done by hand. 
 
 ### Concept: 
