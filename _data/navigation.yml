@@ -44,16 +44,16 @@ PCC18:
         
    - title: Inventor Projects
      children:
-     - title: "The Dispensary"
-       url: /PCC2018/Team_A/
-     - title: "Kitchen A.I.D"
-       url: /PCC2018/Team_B/
      - title: "Car Heat Alert"
        url: /PCC2018/Team_C/
-     - title: "Water We Wasting"
-       url: /PCC2018/Team_D/
+     - title: "The Dispensary"
+       url: /PCC2018/Team_A/
      - title: "Induino Garden"
        url: /PCC2018/Team_E/
+     - title: "Kitchen A.I.D"
+       url: /PCC2018/Team_B/
+     - title: "Water We Wasting"
+       url: /PCC2018/Team_D/
 
    - title: Week 1
      children:

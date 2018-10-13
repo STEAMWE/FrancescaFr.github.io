@@ -12,6 +12,7 @@
 <br>
 </p>
 
+## Final Presentation [Download](/assets/PDF/WaterWeWastingPresentation.pdf)
 
 ## The Problem:
 
@@ -118,74 +119,57 @@ Wasting water increases the demand for clean water. Eventually, it will lead to 
 
 ### Solving problems:
 Connecting the faucet device to the faucet
-
-<br>
   - Velcro, aerator, rubber tubing/hose clamps, rubber watch thing 
 
-<br>
 Making the faucet device slim enough to not bother user
   - Compactness of electronic components
 
-<br>
 Finding a way to hide wire in a safe way
   - Metal C bracket type thing, rubber clamps
-  
-<br>
+
 Waterproofing both devices 
   - Hot glue and covers - wood or plastic
-  
-<br>
+
 Where the screen goes (mounted or on counter)
   - Can come with wall mounts and an easel thing in case they want it on counter
 
-<br>
 Making sure mounts are easy to connect to device
   - Could be like hanging a picture
 
-<br>
 Keeping everything compact for easy storage/use
   - Making everything closer together and measuring distances to create a compact cover
 
-<br>
 Holes in devices for buttons/encoders/motion sensor still waterproof
   - Use plastic on inside and seal it in with hot glue
 
-<br>
 Making sure troubleshooting is easy
   - Include a manual
-  
-<br>
+
 Allowing user to reset device in case of new members of family
   - Including a reset button
-  
-<br>
+
 Enter button or not depending on programming choices
   - Including an enter button
-  
-<br>
+
 Easy use/storage
   - Compacting device for this purpose
-  
-<br>
+
 Transfer the amount of gallon from the water motion sensor to the OLED screen
   - Once circuit is complete Arduino begins to count seconds and records gallons until circuit is open in which is logs the gallons and displays the final amount for that water use
+
 Record data
   - Using the RTC the Arduino will record data for each day and HOPEFULLY report progress overtime
 
-<br>
 How the user will finalise choice (with rotary encoder will determine number of people but 
 how to choose whether or not that’s the number they want - after a certain amount of seconds or an enter button)
   - Using an enter button or making it so if on choice for 3 seconds or so it is entered
-
-<br>
+>
 Allowing user to reset number of people in the house in case someone new comes (number number to be multiplied)
   - Adding a reset button for resetting the number multiplied by required amount of water (this number is what is compared to the amount of water the user used)
 
-<br>
 Recommends the amount of water according to the amount of users (~90 gallons/person)
   - Look up required amount of water per person (this is that number^^)
-
-<br>
+>
 Keeping track of time 
   - RTC module
 
@@ -249,5 +233,5 @@ Keeping track of time
 <img width="600" src ="/assets/images/water/watersetup.JPG">
 <img width="600" src ="/assets/images/water/wateraction.JPG">
 <br>
-</p>
+The final product tracks gallons from single faucet by completing a circuit. It takes user input of faucet GPM and number of household members and calculates average american single faucet water usage for the household. It displays the average usage along with the actual usage and a warning light turns on if the actual usage exceeds the national average.
 
