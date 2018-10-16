@@ -63,7 +63,7 @@ Color combinations based off of RGB color theory. Because of the non-uniform bri
 Three functional layers with through-holes (to seperate the positive and negative leads) + 2 decorative layers were designed in illustrator and lasercut.
 <br>
 
-<img width="300" src="/assets/etextileflower/F3.jpg">
+<img width="300" src="/assets/etextileflower/F3.JPG">
 <img width="150" src="/assets/etextileflower/F4.jpg">
 <img width="150" src="/assets/etextileflower/F5.jpg">
 <br>
@@ -73,7 +73,7 @@ A circuit to supply power to the petals (flower power!) was similarly designed a
 <br>
 
 <img width="150" src="/assets/etextileflower/F6.jpg">
-<img width="150" src="/assets/etextileflower/F7.jpg">
+<img width="150" src="/assets/etextileflower/F7.JPG">
 <img width="150" src="/assets/etextileflower/F8.jpg">
 <img width="150" src="/assets/etextileflower/F9.jpg">
 <br>
