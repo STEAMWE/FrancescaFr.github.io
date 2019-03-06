@@ -1,2 +1,9 @@
 _site/
 _PCC_IC_Content/
+
+# Process of getting local version up and running on new computer:
+# Install Ruby (Find installer online)
+# Install bundler (gem install bundler -v "1.17.3")
+# Install Jekyll (gem install bundler jekyll)
+# navigate to site folder , run (bundle exec jekyll serve)
+# open up localhost to preview (http://localhost:4000)
