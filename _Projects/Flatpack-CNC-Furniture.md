@@ -26,24 +26,24 @@ The tools used for this project were Fusion 360 for design and a Shopbot Desktop
 
 <p>
 <center><img width="220" src="/assets/flatpackfurniture/FusionModel.JPG">
-<img width="380" src="/assets/flatpackfurniture/Flat Pack Cutting.JPG"></center>
+<img width="380" src="/assets/flatpackfurniture/Flat_ack_utting.JPG"></center>
 <br>
 
 It took a bit of experimentation to determine the ideal slot dimensions to achieve a friction fit that held the pieces together, without being permanent. The best solution was to make the top slots tighter than the bottom slots, so they fit tightly but the force required to seperate them was less.
 <br>
 </p>
 
-<center><img width="300" src="/assets/flatpackfurniture/Flat Pack Testing.JPG">
-<img width="300" src="/assets/flatpackfurniture/Flat Pack Stock.JPG">
-<img width="300" src="/assets/flatpackfurniture/Flat Pack Stools.JPG">
-<img width="300" src="/assets/flatpackfurniture/Flat pack CoffeeTable.JPG"></center>
+<center><img width="300" src="/assets/flatpackfurniture/Flat_Pack_Testing.JPG">
+<img width="300" src="/assets/flatpackfurniture/Flat_Pack_Stock.JPG">
+<img width="300" src="/assets/flatpackfurniture/Flat_Pack_Stools.JPG">
+<img width="300" src="/assets/flatpackfurniture/Flat_pack_CoffeeTable.JPG"></center>
 <br>
 
 
 Special thanks to Darcy Neal, PCC STEAM Coordinator, for helping with the final production run, ensuring all 12 stools were complete in time for the exhibit. 
 
 <p>
-<center><img width="600" src="/assets/flatpackfurniture/Flat Pack Gallery.JPG"></center>
+<center><img width="600" src="/assets/flatpackfurniture/Flat_Pack_Gallery.JPG"></center>
 <br>
 <p>
 Design Files are not provided as kerf values for friction fitting will vary depending on the machine and material properties. The design is fairly simple, and part dimensions were largely determined by the maximum machinable area of the CNC router bed (2'x3').
