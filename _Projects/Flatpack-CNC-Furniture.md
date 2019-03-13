@@ -26,14 +26,14 @@ The tools used for this project were Fusion 360 for design and a Shopbot Desktop
 
 <p>
 <center><img width="220" src="/assets/flatpackfurniture/FusionModel.jpg">
-<img width="380" src="/assets/flatpackfurniture/Flat_pack_cutting.jpg"></center>
+<img width="380" src="/assets/flatpackfurniture/Flat_Pack_cutting.jpg"></center>
 <br>
 
 It took a bit of experimentation to determine the ideal slot dimensions to achieve a friction fit that held the pieces together, without being permanent. The best solution was to make the top slots tighter than the bottom slots, so they fit tightly but the force required to seperate them was less.
 <br>
 </p>
 
-<center><img width="300" src="/assets/flatpackfurniture/Flat_Pack_Testing.JPG">
+<center><img width="300" src="/assets/flatpackfurniture/Flat_Pack_Testing.jpg">
 <img width="300" src="/assets/flatpackfurniture/Flat_Pack_Stock.jpg">
 <img width="300" src="/assets/flatpackfurniture/Flat_Pack_Stools.jpg">
 <img width="300" src="/assets/flatpackfurniture/Flat_Pack_CoffeeTable.jpg"></center>
