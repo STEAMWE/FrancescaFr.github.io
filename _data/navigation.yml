@@ -1,9 +1,12 @@
 # main links
 main:
-  - title: "Inventor Camp"
-    url: /PCC2018/2018/
+
   - title: "Projects"
     url: /Projects/Main/
+  # title: "Open Doors WE"
+  # url: /ODWE/2019/
+  - title: "Inventor Camp"
+    url: /PCC2018/2018/
   
   # - title: "Sample Collections"
   #   url: /collection-archive/
@@ -20,6 +23,77 @@ Projects:
        url: /Projects/Waveform-Chess-Set/
      - title: "E-Textile Flower"
        url: /Projects/E-Textile-Flower/
+     - title: "CNC Routed Flatpack Furniture"
+       url: /Projects/Flatpack-CNC-Furniture
+
+ODWE:
+  # Open Doors Work Experience Program Spring 2019
+   - title: Program Overview
+     children:
+     - title: "Opening Doors Work Experience Program"
+       url: /ODWE/2019/
+     - title: "Schedule"
+       url: /ODWE/Course-Outline/
+     - title: "Staff"
+       url: /ODWE/staff/
+     - title: "Resources"
+       url: /ODWE/Resources/
+     - title: "Topics"
+       url: /ODWE/Topics/
+     - title: "FAQ"
+       url: /ODWE/FAQ/
+     - title: "Contacts"
+       url: /ODWE/Contact/
+     - title: "About"
+       url: /ODWE/about/
+     - title: "After Work Experience"
+       url: /ODWE/Career_Pathways
+        
+   - title: Opening Doors
+     children:
+     - title: "Car Heat Alert"
+       url: /ODWE/Team_C/
+     - title: "The Dispensary"
+       url: /ODWE/Team_A/
+     - title: "Induino Garden"
+       url: /ODWE/Team_E/
+     - title: "Kitchen A.I.D"
+       url: /ODWE/Team_B/
+     - title: "Water We Wasting"
+       url: /ODWE/Team_D/
+
+   - title: Week 1
+     children:
+     - title: "Overview"
+       url: /ODWE/Week1/
+     - title: "Day 1 - Orientation"
+       url: /ODWE/W1D1
+     - title: "Day 2 - Arduino & Soldering"
+       url: /ODWE/W1D2
+     - title: "Day 3 - Motors and Sensors"
+       url: /ODWE/W1D3
+     - title: "Day 4 - Project & Lasercutting"
+       url: /ODWE/W1D4
+     - title: "Day 5 - Problem Identification"
+       url: /ODWE/W1D5
+   - title: Week 2
+     children:
+     - title: "Overview"
+       url: /ODWE/Week2/
+     - title: "Day 1 - Design Drawing & Project Selection"
+       url: /ODWE/W2D1
+     - title: "Day 2 - Project Refinement & FX Lecture"
+       url: /ODWE/W2D2
+     - title: "Day 3 - Mockups & Printer Take Apart"
+       url: /ODWE/W2D3
+     - title: "Day 4 - 3D Modeling & Printing"
+       url: /ODWE/W2D4
+     - title: "Day 5 - Sub-system Identification & BOM"
+       url: /ODWE/W2D5
+   - title: Week 3
+     children:
+     - title: "Overview"
+       url: /ODWE/Week3/
 
 PCC18:
   # Archive of PCC Inventor Camp '18

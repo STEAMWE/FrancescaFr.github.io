@@ -10,7 +10,7 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-#theme                  : "minimal-mistakes-jekyll"
+#theme                  : "francescafr.github.io" #"minimal-mistakes-jekyll"
 remote_theme           : "francescafr/francescafr.github.io"
 minimal_mistakes_skin   : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
@@ -200,6 +200,9 @@ collections:
   Projects:
     output: true
     permalink: /Projects/:path/
+  ODWE:
+    output: true
+    permalink: /ODWE/:path/
   
 # Defaults
 defaults:
@@ -256,7 +259,18 @@ defaults:
       comments: false
       sidebar:
         nav: "PCC18"
-        
+  # _ODWE
+  - scope:
+      path: ""
+      type: ODWE
+    values:
+      layout: single
+      read_time: false
+      author profile: false
+      share: false
+      comments: false
+      sidebar:
+        nav: "ODWE"        
 
 # Sass/SCSS
 sass:
