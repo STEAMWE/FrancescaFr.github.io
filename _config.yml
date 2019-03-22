@@ -11,18 +11,18 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 #theme                  : "francescafr.github.io" #"minimal-mistakes-jekyll"
-remote_theme           : "francescafr/francescafr.github.io"
+remote_theme           : "STEAMWE/STEAMWE.github.io"
 minimal_mistakes_skin   : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Praxis Makes Perfect"
+title                    : "PCC STEAM Work Experience"
 title_separator          : "-"
 name                     :  # ""
 description              : "Praxis Makes Perfect"
-url                      : https://Francescafr.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://STEAMWE.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : francescafr/francescafr.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : STEAMWE/STEAMWE.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : /assets/pimages/Europa_surface.jpg # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -101,10 +101,10 @@ analytics:
 # Site Author
 author:
   name             : "Francesca Frattaroli"
-  avatar           : /assets/pimages/avatar.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "BSME Fa Sol La Ti Do"
+  avatar           : /assets/logos/SWEP_Logo.svg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Portland Community College Cascade STEAM Work Experience Program "
   location         : "Portland, OR"
-  email            : francesca@praxismakesperfect.net
+  email            : openingdoorspcc@gmail.com
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -113,11 +113,11 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : francescafr
+  github           : STEAMWE
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        : coelacanthbelieveitsnotbutter
+  instagram        : STEAMPCC
   lastfm           :
   linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :

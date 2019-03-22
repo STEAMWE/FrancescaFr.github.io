@@ -1,12 +1,8 @@
 # main links
 main:
 
-  - title: "Projects"
-    url: /Projects/Main/
-  # title: "STEAM Work Exp"
-  # url: /SWEP/2019/
-  - title: "Inventor Camp"
-    url: /PCC2018/2018/
+  - title: "STEAM Work Exp"
+    url: /SWEP/2019/
   
   # - title: "Sample Collections"
   #   url: /collection-archive/
