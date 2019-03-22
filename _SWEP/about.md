@@ -30,3 +30,12 @@ Skill Center staff connect students with campus and community resources to      
 
 The Skill Center is located in the Margaret Carter Technology Education Building on PCC's Cascade Campus.  
 <br>
+
+
+<p align="center">
+<img width="100" src ="/assets/logos/ODJ_Logo.png">
+&nbsp;&nbsp;
+<img width="200" src ="/assets/logos/PCC_logo.svg">
+&nbsp;&nbsp;
+<img width="200" src ="/assets/logos/fab_lab_logo.svg">
+</p>

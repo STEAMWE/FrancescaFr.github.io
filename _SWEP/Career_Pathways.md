@@ -2,6 +2,7 @@
 # permalink: /contacts/
  title: PCC Career Pathways
 # layout: single
+ classes: wide
 ---
 
 PCC provides a range of [Career Pathway](https://www.pcc.edu/career-pathways/) programs. Courses range from a few weeks to two years, and focus on quickly equipping students with training and certificates that lead to real jobs.
@@ -17,21 +18,21 @@ PCC provides a range of [Career Pathway](https://www.pcc.edu/career-pathways/) p
 - Business Administration
 - Child + Family Studies
 - Computer Aided Design + Drafting
--Computer Applications + Web Technologies
--Diesel Service
--Electronic Engineering Technology
--Emergency Medical Services
--Exercise Science
--Facilities Maintenance
--Fire Protection
--Gerontology
--Interior Design
--Landscape
--Machine Manufacturing
--Management + Supervisory Development
--Microelectronics
--Multimedia
--Music + Sonic Arts
--Welding
+- Computer Applications + Web Technologies
+- Diesel Service
+- Electronic Engineering Technology
+- Emergency Medical Services
+- Exercise Science
+- Facilities Maintenance
+- Fire Protection
+- Gerontology
+- Interior Design
+- Landscape
+- Machine Manufacturing
+- Management + Supervisory Development
+- Microelectronics
+- Multimedia
+- Music + Sonic Arts
+- Welding
 
 

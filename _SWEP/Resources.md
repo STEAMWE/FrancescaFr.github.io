@@ -1,15 +1,18 @@
 ---
 # permalink: 
- title: Inventor Camp Resources
+ title: STEAM Work Experience Resources
  #layout: wide
 ---
 
 --------------------------------
 - [On-Campus Resources](#oncampus)
   - [Cascade Fab Lab](#fablab)
-  - [Interactivity Lab](#interactivity)
+  - [Margaret Carter STEAM Room](#STEAM)
+  - [Airway Science Room](#Aviation)
+  - [Magaret Carter Skill Center](#MCSC)
+  - [PCC Cascade Library](#Library)
 - [Software](#software)
-- [Take Home Supplies](#takehome)
+- [Provided Supplies](#takehome)
 - [Recommended Supplies](#recommended)
 - [Commmunity Resources](#community)
 - [Online Learning](#online)
@@ -23,7 +26,7 @@
 --------------------------------
 ## Videos ##
 
-Visit the [Inventor Camp](https://www.youtube.com/playlist?list=PLCbj4y40DGbFfPRFeO3EVDI29tCjYclos) Youtube playlist for a complete listing of all videos referenced in the course.
+Visit the [Fab Lab](https://www.youtube.com/channel/UCgxws-ODOuMLC8qS-aA06tA/playlists) Youtube site for a complete listing of all videos referenced in the course.
 
 <a name="oncampus"></a>
 ## On-Campus Resources ##
@@ -38,17 +41,29 @@ Visit the [Inventor Camp](https://www.youtube.com/playlist?list=PLCbj4y40DGbFfPR
   - CNC Embroidery Machine
   - Jig Saw
   - Hand Drill
+  - Foam Cutter
   - Misc. Small Hand Tools
   - Soldering Irons + Soldering Equipment
   - Electronic peripherals + components
-<a name="interactivity"></a>  
-- [Interactivity Lab](https://www.pcc.edu/maker/interactivity-lab/)
+  - 10 Surface Books Equipped with Fusion360, Adobe Illustrator, Cura, VcarvePro
+  
+<a name="aviation"></a>  
+- Airway Science Room: Located in TEB 116
   - Soldering Irons + Soldering Equipment
-  - CR-10 Creality 3D Filament Printer
-  - Ender 3 Creality 3D Filament Printer
   - Electronic peripherals + components
   
+<a name="STEAM"></a>
+- Margaret Carter STEAM Room: Located in TEB 119
+  - Creality Ender 3 3D Printer
+  - Muse 45W CO2 Laser Cutter
+  - 10 Desktop Computers Equipped with Fusion360, Cura, and Adobe Illustrator
   
+<a name="MCSC"></a>
+- [Margaret Carter Skill Center](https://www.pcc.edu/career/skill-center/index.html) , Located in TEB 124
+
+<a name="Library"></a>
+- [PCC Cascade Library](https://www.pcc.edu/library/)
+	- Open 8:30AM - 8PM M-Th
   
 <a name="software"></a>
 
@@ -57,19 +72,22 @@ Visit the [Inventor Camp](https://www.youtube.com/playlist?list=PLCbj4y40DGbFfPR
 - Arduino IDE (Free to Download)
 - Fusion 360 (Free to Download)
 - Adobe Illustrator
+- VCarvePro
+
 <a name="takehome"></a>
-## Take-Home Supplies ##
+## Provided Supplies ##
 
 - Design Notebook + Pen
 - Arduino Starter Kit (Micro-Controller, Wires, Resistors, Breadboard, Sensors, Actuators, etc.)
   [Included Documentation](https://drive.google.com/drive/folders/1g1QEL_eiZKXUURxtWOOyFW0e9Gh81e6L?usp=sharing)
-- Solder Kit (Soldering Iron, Solder, Desoldering Pump, Wire Strippers, etc.) + Helping hands
 - Toolbox
+- Snacks 
 
 <a name="recommended"></a>
 ## Recommended Supplies (_Not Included_) ##
 
-- Snacks/waterbottle
+- Closed-Toed Shoes
+- Waterbottle
 
 <a name="community"></a>
 ## Community Resources ##
@@ -90,6 +108,9 @@ Visit the [Inventor Camp](https://www.youtube.com/playlist?list=PLCbj4y40DGbFfPR
 <a name="3d"></a>
 ### 3D Modeling Tutorials ###
 - [Fusion 360](http://help.autodesk.com/view/fusion360/ENU/)
+
+### Shopbot CNC Router ###
+- [Shopbot Tutorials](https://support.shopbottools.com/training/tutorials)
 
 <a name="tools"></a>
 ##  Tool and Material Sourcing ##

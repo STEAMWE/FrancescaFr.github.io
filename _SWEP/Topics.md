@@ -1,9 +1,11 @@
 ---
 # permalink: 
- title: Inventor Camp Topics
- #layout: wide
+ title: STEAM Topics
+ #layout: single
+ classes: wide
 ---
 
+<!--
 --------------------------
 - [Arduino/Programming](#Arduino)
 - Using the [RTC](#RTC) (Real Time Clock)
@@ -70,3 +72,4 @@ Getting your Micro OLED up and Running
 ## 3D Modeling ##
 - [Fusion 360](http://help.autodesk.com/view/fusion360/ENU/)
 
+-->
