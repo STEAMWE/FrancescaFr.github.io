@@ -5,9 +5,9 @@
  classes: wide
 ---
 
-
 _*Please Note:_ In general, Monday-Tuesday classes begin in the _Cascade Fab Lab_; Wednesday & Thursday classes begin in _TEB 119_
 
+<h2>Daily Schedule (Updated Regularly)</h2>
 
 |Week|Date   |Location*|	     ACTIVITIES       |
 |----|--------|------|-----------------------------|
@@ -24,6 +24,11 @@ _*Please Note:_ In general, Monday-Tuesday classes begin in the _Cascade Fab Lab
 
 <p align="center">
 
-(All information subject to change)
+<h2> General Weekly Schedule </h2>
+<img width="600" src="/assets/SWEP/WeeklySchedule_V1.PNG">
 
+
+<h2> Term Schedule </h2>
+<img width ="600" src= "/assets/SWEP/TermSchedule_V1.PNG">
 </p>
+(All information subject to change)

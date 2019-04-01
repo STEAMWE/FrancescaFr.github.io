@@ -18,6 +18,7 @@
 - [Online Learning](#online)
   - [Arduino](#arduino)
   - [3D Modeling](#3d)
+  - [Online Courses](#MOOC)
 - [Tool & Material Sourcing](#tools)
   - [Local Sources](#local)
   - [Online Sources](#onlineshops)
@@ -105,9 +106,39 @@ Visit the [Fab Lab](https://www.youtube.com/channel/UCgxws-ODOuMLC8qS-aA06tA/pla
 - [Arduino](https://www.arduino.cc/) 
 - [Sparkfun](https://learn.sparkfun.com/)
 - [ADAFruit](https://learn.adafruit.com/category/learn-arduino)
+
 <a name="3d"></a>
 ### 3D Modeling Tutorials ###
 - [Fusion 360](http://help.autodesk.com/view/fusion360/ENU/)
+- [Lynda: Fusion 360 Essential Trainings](https://www.lynda.com/Fusion-360-tutorials/Fusion-360-Essential-Training/614292-2.html?srchtrk=index%3a1%0alinktypeid%3a2%0aq%3afusion+360%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2)
+
+<a name="MOOC"></a>
+### Online Courses ###
+- [Class Central](https://www.Classcentral.com/)
+An search platform for finding courses across different websites.
+- [Coursera](https://www.coursera.org) 
+Features college-level short and full length classes (College certification available)
+	- Example Course: [Design Thinking for the Social Sector](https://www.coursera.org/learn/uva-darden-design-thinking-social-sector?ranMID=40328&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-xuiWmMNhvC6iTmDItDc60A&siteID=SAyYsTvLiGQ-xuiWmMNhvC6iTmDItDc60A&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ)
+	
+- [Edx](https://www.edx.org/)
+Features college-level short and full length classes (College certification available)
+	- Example Course: [Social Media: How media got social](https://www.edx.org/course/social-media-how-media-got-social)
+- [Khan Academy](https://www.khanacademy.org)
+High School and college-level topic-specific courses (great for beefing up on a specific topic, ex: calculating area and volume, fractions, etc.)
+	- Example Course: [Algebra Basics](https://www.khanacademy.org/math/algebra-basics)
+	
+- [FutureLearn](https://www.futurelearn.com/)
+Features a range of short and long form topic courses
+	- Example Course: [Writing Applications](https://www.futurelearn.com/courses/writing-applications?utm_campaign=Courses+feed&utm_medium=courses-feed&utm_source=courses-feed&utm_source=RakutenMarketing&utm_medium=Affiliate&utm_campaign=3347507:Class+Central&utm_content=10:1&utm_term=USNetwork&ranMID=44015&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-MJ1mE.g8ZPb4JH51fLeEMQ)
+	
+- [Lynda](https://www.lynda.com/)
+Software/topic specific courses - free with pcc email
+	- Example Course: [Fusion 360 Essential Trainings](https://www.lynda.com/Fusion-360-tutorials/Fusion-360-Essential-Training/614292-2.html?srchtrk=index%3a1%0alinktypeid%3a2%0aq%3afusion+360%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2)
+	
+- [Udacity](https://udacity.com/)
+Challenging Tech and Business Oreinted Courses
+	- Example Course: [How to Build a Startup](https://www.udacity.com/course/how-to-build-a-startup--ep245)
+	
 
 ### Shopbot CNC Router ###
 - [Shopbot Tutorials](https://support.shopbottools.com/training/tutorials)
