@@ -112,6 +112,9 @@ Visit the [Fab Lab](https://www.youtube.com/channel/UCgxws-ODOuMLC8qS-aA06tA/pla
 - [Fusion 360](http://help.autodesk.com/view/fusion360/ENU/)
 - [Lynda: Fusion 360 Essential Trainings](https://www.lynda.com/Fusion-360-tutorials/Fusion-360-Essential-Training/614292-2.html?srchtrk=index%3a1%0alinktypeid%3a2%0aq%3afusion+360%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2)
 
+### Shopbot CNC Router ###
+- [Shopbot Tutorials](https://support.shopbottools.com/training/tutorials)
+
 <a name="MOOC"></a>
 ### Online Courses ###
 - [Class Central](https://www.Classcentral.com/)
@@ -140,8 +143,7 @@ Challenging Tech and Business Oriented Courses
 	- Example Course: [How to Build a Startup](https://www.udacity.com/course/how-to-build-a-startup--ep245)
 	
 
-### Shopbot CNC Router ###
-- [Shopbot Tutorials](https://support.shopbottools.com/training/tutorials)
+
 
 <a name="tools"></a>
 ##  Tool and Material Sourcing ##
