@@ -136,7 +136,7 @@ Software/topic specific courses - free with pcc email
 	- Example Course: [Fusion 360 Essential Trainings](https://www.lynda.com/Fusion-360-tutorials/Fusion-360-Essential-Training/614292-2.html?srchtrk=index%3a1%0alinktypeid%3a2%0aq%3afusion+360%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2)
 	
 - [Udacity](https://udacity.com/)
-Challenging Tech and Business Oreinted Courses
+Challenging Tech and Business Oriented Courses
 	- Example Course: [How to Build a Startup](https://www.udacity.com/course/how-to-build-a-startup--ep245)
 	
 
