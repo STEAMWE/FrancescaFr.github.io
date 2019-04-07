@@ -11,8 +11,8 @@ _*Please Note:_ In general, Monday-Tuesday classes begin in the _Cascade Fab Lab
 
 |Week|Date   |Location*|	     ACTIVITIES       |
 |----|--------|------|-----------------------------|
-1 | Mon  04/08 |	Cascade Fab Lab | Orientation & Introduction to Work Experience
-1 | Tue  04/09 | Cascade Fab Lab | Rotating Lab Trainings
+1 | Mon  04/08 | STEAM ROOM TEB 119 | Orientation & Introduction to Work Experience
+1 | Tue  04/09 | STEAM ROOM TEB 119 | Rotating Lab Trainings
 1 | Wed  04/10	| Cascade Fab Lab | Rotating Lab Trainings
 1 | Thu 04/11   |	Cascade Fab Lab | Rotating Lab Trainings
 
