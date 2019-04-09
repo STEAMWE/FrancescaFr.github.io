@@ -64,8 +64,8 @@ SWEP:
        url: /SWEP/Week1/
      - title: "Day 1 - General Orientation"
        url: /SWEP/W1D1
- #    - title: "Day 2 - Rotating Trainings"
- #      url: /SWEP/W1D2
+     - title: "Day 2 - Rotating Trainings"
+       url: /SWEP/W1D2
  #      url: /SWEP/W1D1
  #    - title: "Day 3 - Rotating Trainings"
  #      url: /SWEP/W1D3
