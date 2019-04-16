@@ -5,7 +5,7 @@
 ---
 ## Getting Started:
 
-This second week starts with continuation of the equipment trainings started in week two. The drone workshop will be introduced on day one, with work on drones beginning on day 3. At the end of week two, each student is expected to produce 1 object on the lasercutter, CNC router, and 3D printer. A visit to the Paragon Gallery will also occur some time during this week.
+This second week starts with continuation of the equipment trainings started in week one. The drone workshop will be introduced on day one, with work on drones beginning on day 3. At the end of week two, each student is expected to produce 1 object on the lasercutter, CNC router, and 3D printer. A visit to the Paragon Gallery will also occur some time during this week.
 
 As the week progresses and students become more comfortable with the various tools available, you will be asked to consider what individual projects could be produced using these tools.
 
