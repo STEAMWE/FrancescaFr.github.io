@@ -15,6 +15,10 @@ _*Please Note:_ In general, Monday-Tuesday classes begin in the _Cascade Fab Lab
 1 | Tue  04/09 | STEAM ROOM TEB 119 & Fab Lab | Rotating Lab Trainings
 1 | Wed  04/10	| STEAM ROOM TEB 119 & Fab Lab | Rotating Lab Trainings
 1 | Thu 04/11   | STEAM ROOM TEB 119 & Fab Lab | Rotating Lab Trainings
+2 | Mon  04/15 | STEAM ROOM TEB 119 | Rotating Lab Trainings, Gallery Visit
+2 | Tue  04/16 | STEAM ROOM TEB 119 & Fab Lab | Rotating Lab Trainings 
+2 | Wed  04/17	| STEAM ROOM TEB 119 & TEB 121 | Rotating Lab Trainings & Drones
+2 | Thu 04/18   | STEAM ROOM TEB 119 & TEB 121 | Rotating Lab Trainings & Drones
 
 <!-- 1 | Mon  04/08 |	Cascade Fab Lab | 
 1 | Tue  04/09 | Cascade Fab Lab | 
