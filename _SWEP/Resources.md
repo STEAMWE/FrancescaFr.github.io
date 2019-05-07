@@ -32,6 +32,10 @@ Visit the [Fab Lab](https://www.youtube.com/channel/UCgxws-ODOuMLC8qS-aA06tA/pla
 <a name="oncampus"></a>
 ## On-Campus Resources ##
 
+### Getting Familiar with Cascade Campus ###
+
+[Introduction Presentation](https://docs.google.com/presentation/d/1C1STAa9L9oXMGeCY6MPBpzUPC5GpIHoG_ioemntO6-g/edit?usp=sharing)
+
 ### General: ###
 <a name="fablab"></a>
 - [Cascade Fab Lab](https://www.pcc.edu/maker/fab-lab/)
