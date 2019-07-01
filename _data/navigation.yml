@@ -1,7 +1,7 @@
 # main links
 main:
 
-  - title: "Spring 2019"
+  - title: "Summer 2019"
     url: /SWEP/2019/
   
   # - title: "Sample Collections"
@@ -23,7 +23,7 @@ Projects:
        url: /Projects/Flatpack-CNC-Furniture
 
 SWEP:
-  # Open Doors Work Experience Program Spring 2019
+  # Open Doors Work Experience Program Summer 2019
    - title: Program Overview
      children:
      - title: "STEAM Work Experience"
@@ -74,9 +74,9 @@ SWEP:
  #    - title: "Day 5 - Rotating Trainings"
  #      url: /SWEP/W1D5
  #  - title: Week 2
-     children:
-     - title: "Overview"
-       url: /SWEP/Week2/
+ #    children:
+ #    - title: "Overview"
+ #      url: /SWEP/Week2/
  #    - title: "Day 1 - Design Drawing & Project Selection"
  #      url: /SWEP/W2D1
  #    - title: "Day 2 - Project Refinement & FX Lecture"
@@ -88,13 +88,13 @@ SWEP:
  #    - title: "Day 5 - Sub-system Identification & BOM"
  #      url: /SWEP/W2D5
  #  - title: Week 3
-     children:
-     - title: "Overview"
-       url: /SWEP/Week3/
-     - title: "Day 1 - Intro to Soldering"
-       url: /SWEP/W3D1
-     - title: "Day 2 - Project Exploration and Online Courses"
-       url: /SWEP/W3D2
+ #    children:
+ #    - title: "Overview"
+ #      url: /SWEP/Week3/
+ #    - title: "Day 1 - Intro to Soldering"
+ #      url: /SWEP/W3D1
+ #    - title: "Day 2 - Project Exploration and Online Courses"
+ #      url: /SWEP/W3D2
 
 PCC18:
   # Archive of PCC Inventor Camp '18
