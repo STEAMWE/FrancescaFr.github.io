@@ -39,6 +39,7 @@ Visit the [Fab Lab](https://www.youtube.com/channel/UCgxws-ODOuMLC8qS-aA06tA/pla
 ### General: ###
 <a name="fablab"></a>
 - [Cascade Fab Lab](https://www.pcc.edu/maker/fab-lab/)
+  - [Tool Summary] (/assets/SWEP/SWEP_Tools_Summer_Term_2019.pdf)
   - 60W Laser Cutter
   - CR-10 3D Filament Printer (x2)
   - Roland Vinyl Plotter
