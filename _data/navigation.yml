@@ -64,8 +64,8 @@ SWEP:
        url: /SWEP/Week1/
      - title: "Day 1 - General Orientation"
        url: /SWEP/W1D1
-     - title: "Day 2 - Rotating Trainings"
-       url: /SWEP/W1D2
+#     - title: "Day 2 - Rotating Trainings"
+#       url: /SWEP/W1D2
  #      url: /SWEP/W1D1
  #    - title: "Day 3 - Rotating Trainings"
  #      url: /SWEP/W1D3
@@ -73,7 +73,7 @@ SWEP:
  #      url: /SWEP/W1D4
  #    - title: "Day 5 - Rotating Trainings"
  #      url: /SWEP/W1D5
-   - title: Week 2
+ #  - title: Week 2
      children:
      - title: "Overview"
        url: /SWEP/Week2/
@@ -87,7 +87,7 @@ SWEP:
  #      url: /SWEP/W2D4
  #    - title: "Day 5 - Sub-system Identification & BOM"
  #      url: /SWEP/W2D5
-   - title: Week 3
+ #  - title: Week 3
      children:
      - title: "Overview"
        url: /SWEP/Week3/

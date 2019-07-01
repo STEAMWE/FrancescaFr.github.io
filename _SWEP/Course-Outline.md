@@ -5,30 +5,24 @@
  classes: wide
 ---
 
-_*Please Note:_ In general, Monday-Tuesday classes begin in the _Cascade Fab Lab_; Wednesday & Thursday classes begin in _TEB 119_
+_*Please Note:_ In general, Monday-Tuesday classes begin at 10AM in the _TEB 119_; Wednesdays, start time may differ due to field trips
 
 <h2>Daily Schedule (Updated Regularly)</h2>
 
 |Week|Date   |Location*|	     ACTIVITIES       |
 |----|--------|------|-----------------------------|
-7 | Mon  05/19 | STEAM ROOM TEB 119 | FarmBot Enclosure Installation
-7 | Tue  05/20 | STEAM ROOM TEB 119 & Fab Lab | FarmBot Installation and Planting
-7 | Wed  04/21	| STEAM ROOM TEB 119 &| Farmbot Testing and Drones
-7 | Thu 04/22   | STEAM ROOM TEB 119| Drones
+1 | Mon  07/01 |	TEB 119 / 121 | Orientations / Drones
+1 | Tue  07/02 | TEB 119/ 121| Safety / Soldering / Drones
+1 | Wed  07/03 | TEB 119 / 121 | Tours / Tool Overview
 
-<!-- 1 | Mon  04/08 |	Cascade Fab Lab | 
-1 | Tue  04/09 | Cascade Fab Lab | 
-1 | Wed  04/10	| TEB 119 | 
-1 | Thu 04/11   |	TEB 119 | 
--->
 
 <p align="center">
 
 <h2> General Weekly Schedule </h2>
-<img width="600" src="/assets/SWEP/WeeklySchedule_V1.PNG">
+<img width="600" src="/assets/SWEP/WeeklySchedule_V2.PNG">
 
 
 <h2> Term Schedule </h2>
-<img width ="600" src= "/assets/SWEP/TermSchedule_V1.PNG">
+<img width ="600" src= "/assets/SWEP/TermSchedule_V2.PNG">
 </p>
 (All information subject to change)
