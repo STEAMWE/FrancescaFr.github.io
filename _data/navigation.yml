@@ -87,10 +87,10 @@ SWEP:
  #      url: /SWEP/W2D4
  #    - title: "Day 5 - Sub-system Identification & BOM"
  #      url: /SWEP/W2D5
- #  - title: Week 3
- #    children:
- #    - title: "Overview"
- #      url: /SWEP/Week3/
+   - title: Week 3
+     children:
+     - title: "Overview"
+       url: /SWEP/Week3/
  #    - title: "Day 1 - Intro to Soldering"
  #      url: /SWEP/W3D1
  #    - title: "Day 2 - Project Exploration and Online Courses"

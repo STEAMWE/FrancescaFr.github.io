@@ -3,17 +3,11 @@
  title: Week 3
 # layout: wide
 ---
-## Electronics:
+## Prototyping & 3D Modeling:
 
-This third week starts with an introduction to soldering, an electronic assembly technique that will be useful when students start assembling their drones.
-This will segue into some basic electronic theory, to equip the students with the circuit building skills necessary to interpret and modify basic electromechanical systems. 
+This third week starts with an introduction to 3D Modeling and 3D Printing
 
-MOOCs (online courses) will also be introduced as an option for students who wish to pursue an academic focus or obtain specific program or skill training that the Opening Doors Staff cannot provide.
-
-As the week progresses, students will be encouraged identify personal interests and explore the intersection of art and tech at those interest points, with the goal of finding a related maker project.
-
-- Day 1: Introduction to soldering & MOOCs
-- Day 2: Soldering & Electronics
-- Day 3: Special Project Training & Drones
-- Day 4: Drones and Trainings
+- Day 1: Intro to Prototyping, Make an [Autodesk Account](https://accounts.autodesk.com/register?viewmode=iframe&lang=en&realm=download-www.autodesk.com&ctx=adsk-download-www&AuthKey=bf709f71-8321-4d7b-a722-a70d5835e2ef&ReturnUrl=%2Fauthorize%3Fviewmode%3Diframe%26lang%3Den%26realm%3Ddownload-www.autodesk.com%26ctx%3Dadsk-download-www%26AuthKey%3Dbf709f71-8321-4d7b-a722-a70d5835e2ef)
+- Day 2: Learn to create a simple geometry and operate the 3D Printer
+- Day 3: Field trip to The Rebuilding Center
 
