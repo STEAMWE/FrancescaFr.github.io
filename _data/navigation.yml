@@ -91,8 +91,8 @@ SWEP:
      children:
      - title: "Overview"
        url: /SWEP/Week3/
- #    - title: "Day 1 - Intro to Soldering"
- #      url: /SWEP/W3D1
+     - title: "Day 1 - Intro to Prototyping & 3D Printing"
+       url: /SWEP/W3D1
  #    - title: "Day 2 - Project Exploration and Online Courses"
  #      url: /SWEP/W3D2
 
